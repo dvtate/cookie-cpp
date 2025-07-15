@@ -1,10 +1,4 @@
 //
-// Created by tate on 7/8/25.
-//
-
-#pragma once
-
-//
 // Created by tate on 7/2/25.
 //
 
